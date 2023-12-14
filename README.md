@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **miladimnich/miladimnich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,8 @@ between branches, and merge changes. Understanding branching is crucial for coll
 - 💬 Ask me about  what sparked your interest in the project you're currently working on? 
 What inspired you to learn GitHub, and what goals do you have for your project or learning
 journey?
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
