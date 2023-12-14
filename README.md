@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-**miladimnich/miladimnich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on the project
+**- 🔭 I’m currently working on the project**
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on Create Your Projects: If you have a project idea, 
 create your repository and invite others to collaborate. GitHub makes it easy for multiple
